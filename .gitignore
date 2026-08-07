@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Pycharm 缓存文件
+WelcomScreen/
+.idea/
+Scratches and Consoles/
+_pycache_/
+*.pyc/
+.venv/
